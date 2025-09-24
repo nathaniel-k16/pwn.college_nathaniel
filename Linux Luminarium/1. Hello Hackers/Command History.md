@@ -9,3 +9,12 @@ Checking history of commands.
 ```bash
 $ the flag is pwn.college{cGD70kSEnqJuMyIJxJvBAtAueE0.0lNzEzNxwiNwkjNzEzW}
 ```
+
+## What I learned
+N/A
+
+## Incorrect tangents
+N/A
+
+## References
+N/A

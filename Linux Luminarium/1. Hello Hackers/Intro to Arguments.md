@@ -11,3 +11,12 @@ $ hello hackers
 Success! Here is your flag:
 pwn.college{A3Z4LrvGqPdZtkxpGmt77jFCltw.QX4YjM1wiNwkjNzEzW}
 ```
+
+## What I learned
+N/A
+
+## Incorrect tangents
+N/A
+
+## References
+N/A
